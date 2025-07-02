@@ -1,0 +1,1 @@
+For this project I am using an API to gaather data from nasas api website. The data is then entered into a mysql database. The script I am using is scheduled to run 6 am every day through windows scheduler tool.
